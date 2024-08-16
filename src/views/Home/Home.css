@@ -1,0 +1,12 @@
+body{
+    /* background-color:#fcf9f9; */
+    background-color: #f2f2f2;
+}
+.card-container{
+     height: 300px;    
+     display: flex;
+     flex-wrap: wrap;     
+     margin-top: 20px;
+    
+    
+}
